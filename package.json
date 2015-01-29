@@ -1,6 +1,6 @@
 {
   "name": "easy-lv-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Socket server for browser live reload",
   "main": "index.js",
   "scripts": {

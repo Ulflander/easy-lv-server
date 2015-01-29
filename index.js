@@ -11,5 +11,5 @@ exports.reload = function() {
 };
 
 exports.init = function(port) {
-    io.attach(port || 1234);
+    io.attach(port || 4444);
 };
